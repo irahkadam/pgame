@@ -18,7 +18,7 @@
 			  dan banyak pula perusahaan yang mencari orang dengan kemampuan ini.
 			
 			3.MACHINE LEARNING & DEEP LEARNING
-			  Data – Machine Learning&Deep Learning – Models
+			  Data â€“ Machine Learning&Deep Learning â€“ Models
 			   Machine learning atau mesin pembelajaran memiliki definisi dasar yaitu algoritma yang mengolah data, 
 			   mempelajari data tersebut,dan menerapkan apa yang telah dipelajari untuk membuat keputusan. Apa yang
 			   telah dipelajari oleh machine learning akan memberikan prediksi untuk suatu tujuan.
@@ -45,7 +45,7 @@
 ### Tempat		: Aula Rektorat
 ### Durasi		: 45 Menit, sesi ke 1
 ### Nama Pemateri 	: Yudi Prayudi, M.Kom
-### Isi Materi		: ¬Forensik Digital
+### Isi Materi		: Â¬Forensik Digital
 			Catatan saya untuk Materi Seminar yang disampaikan oleh Pak Yudi bagi saya menjadi bebeapa bagian
 			Ilmu Forensik
 			1.Forensik Digital
