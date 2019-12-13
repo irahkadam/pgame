@@ -40,10 +40,10 @@
 ### NPM	:16113
 ###		: Siti Humairah I Kadam
 ***
-### Materi Seminar 1,
-### 			: 10/12,2019 :09.00
+### Materi Seminar 2,
+### 			: 10/12,2019 :10.59
 ### Tempat		: Aula Rektorat
-### Durasi		: 45 Menit, sesi ke 1
+### Durasi		: 45 Menit, sesi ke 2
 ### Nama Pemateri 	: Yudi Prayudi, M.Kom
 ### Isi Materi		: ¬Forensik Digital
 			Catatan saya untuk Materi Seminar yang disampaikan oleh Pak Yudi bagi saya menjadi bebeapa bagian
