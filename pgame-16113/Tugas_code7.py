@@ -4,12 +4,12 @@ x = 0
 while (x < 5): 	# jika x lebih kecil dari 5 maka ulangi
 # 	x = x + 1
 	x += 1 			# x + 1
-	print(" Sudarmin A. Ahmad ")
+	print(" Humairah kadam")
 
 b="Ini Merupakan Perulangan For"	# perulangan “for”
 print(b)
 for x in range(5):
-	print("Sudarmin A. Ahmad")
+	print("Humairah kadam")
 
 c="Ini Merupakan Fungsi / Function"	# Fungsi / Function
 print(c)
